@@ -1,0 +1,21 @@
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\bin\Debug\MyTalon.exe
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\bin\Debug\MyTalon.pdb
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\bin\Debug\Newtonsoft.Json.dll
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\bin\Debug\Newtonsoft.Json.xml
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.csprojResolveAssemblyReference.cache
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.Form1.resources
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.Properties.Resources.resources
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.csproj.GenerateResource.Cache
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.exe
+c:\users\buhalo88\documents\visual studio 2015\Projects\MyTalon\MyTalon\obj\Debug\MyTalon.pdb
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.exe
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.pdb
+D:\Project\VS2012\MyTalon\MyTalon\bin\Debug\MyTalon.exe
+D:\Project\VS2012\MyTalon\MyTalon\bin\Debug\MyTalon.pdb
+D:\Project\VS2012\MyTalon\MyTalon\bin\Debug\Newtonsoft.Json.dll
+D:\Project\VS2012\MyTalon\MyTalon\bin\Debug\Newtonsoft.Json.xml
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.csprojResolveAssemblyReference.cache
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.Form1.resources
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.Properties.Resources.resources
+D:\Project\VS2012\MyTalon\MyTalon\obj\Debug\MyTalon.csproj.GenerateResource.Cache
+D:\Project\VS2012\MyTalon\MyTalon\bin\Debug\MyTalon.exe.config
